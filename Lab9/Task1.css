@@ -1,0 +1,45 @@
+/*
+Student Name: Ankit Kumar
+Student Id:-BCS2025392
+Course: B.Tech CSE
+Year: Second Year
+Subject: JavaScript Programming Lab
+Subject Code: BCS354
+University: Invertis University, Bareilly
+Assignment Number: 9
+Task Number: 1
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    max-width: 450px;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 18px;
+    font-size: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
